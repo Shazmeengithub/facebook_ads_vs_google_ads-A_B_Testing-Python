@@ -100,7 +100,9 @@ This project is primarily a data analysis workflow documented in a single script
 
 .
 ├── marketing_campaign.csv  # Raw data file
+
 └── facebook_ads_vs_google_ads-A-B_Testing-Python.ipynb    # Main notebook
+
 └── README.md
 
 
@@ -155,4 +157,5 @@ python analysis_script.py
 <h2 id="author-contact">Author & Contact</h2>
 
 Author: Shazmeen Shaikh
+
 Contact: https://www.linkedin.com/in/shazmeen-shaikh-30bb63237/
